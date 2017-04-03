@@ -1,0 +1,18 @@
+
+#container {
+  padding-top:100px;
+  text-align: center;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px; 
+  font-size: 30px;
+  font-family: Ariel;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  line-height:200px;
+}
